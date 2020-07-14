@@ -4,9 +4,10 @@
     <list default="true" id="d3eb4992-d031-47da-9e94-2260b736452d" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/components/item-add-form/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/item-add-form/item-add-form.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/item-add-form/item-add-form.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/search-panel/search-panel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/search-panel/search-panel.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/todo-list/todo-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todo-list/todo-list.js" afterDir="false" />
     </list>
@@ -39,7 +40,7 @@
           <entry key="css" value="16" />
           <entry key="gitignore" value="1" />
           <entry key="html" value="3" />
-          <entry key="js" value="37" />
+          <entry key="js" value="38" />
           <entry key="json" value="1" />
           <entry key="md" value="1" />
         </counts>
@@ -49,7 +50,7 @@
           <entry key="CSS" value="16" />
           <entry key="HTML" value="3" />
           <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="37" />
+          <entry key="JavaScript" value="38" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
@@ -63,39 +64,28 @@
         <counts>
           <entry key="css" value="435" />
           <entry key="html" value="20" />
-          <entry key="js" value="4718" />
+          <entry key="js" value="5811" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="435" />
           <entry key="HTML" value="20" />
-          <entry key="JavaScript" value="4718" />
+          <entry key="JavaScript" value="5811" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/app/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-526">
-              <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+            <state relative-caret-position="362">
+              <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
               <folding>
                 <element signature="e#78#117#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/search-panel/search-panel.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
+                <element signature="e#419#580#0" />
               </folding>
             </state>
           </provider>
@@ -113,11 +103,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="20" column="58" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/item-add-form/item-add-form.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+            <state relative-caret-position="925">
+              <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -202,15 +204,16 @@
         <option value="$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.css" />
         <option value="$PROJECT_DIR$/src/components/app-header/app-header.css" />
         <option value="$PROJECT_DIR$/src/components/search-panel/search-panel.css" />
-        <option value="$PROJECT_DIR$/src/components/search-panel/search-panel.js" />
         <option value="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.css" />
         <option value="$PROJECT_DIR$/src/components/item-add-form/item-add-form.html" />
         <option value="$PROJECT_DIR$/src/components/item-add-form/index.js" />
         <option value="$PROJECT_DIR$/src/components/todo-list/todo-list.js" />
         <option value="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.js" />
         <option value="$PROJECT_DIR$/src/components/item-add-form/item-add-form.css" />
-        <option value="$PROJECT_DIR$/src/components/app/app.js" />
         <option value="$PROJECT_DIR$/src/components/item-add-form/item-add-form.js" />
+        <option value="$PROJECT_DIR$/src/components/search-panel/search-panel.js" />
+        <option value="$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.js" />
+        <option value="$PROJECT_DIR$/src/components/app/app.js" />
       </list>
     </option>
   </component>
@@ -270,11 +273,6 @@
             <path>
               <item name="todo" type="b2602c69:ProjectViewProjectNode" />
               <item name="todo" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="todo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="todo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -288,35 +286,7 @@
               <item name="todo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="todo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="todo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="app-header" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="todo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="todo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="item-add-form" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="todo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="todo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="search-panel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="todo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="todo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="todo-list-item" type="462c0819:PsiDirectoryNode" />
+              <item name="item-status-filter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -378,18 +348,18 @@
       <workItem from="1591007924600" duration="158000" />
       <workItem from="1591193975349" duration="38000" />
       <workItem from="1591528821748" duration="19620000" />
-      <workItem from="1594029247824" duration="4764000" />
+      <workItem from="1594029247824" duration="8750000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40653000" />
+    <option name="totallyTimeSpent" value="44639000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25318247" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25318247" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -404,7 +374,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3181242" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3181242" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -524,16 +494,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/item-add-form/item-add-form.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -552,16 +512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/search-panel/search-panel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -609,22 +559,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/app/app.js">
+    <entry file="file://$PROJECT_DIR$/src/components/search-panel/search-panel.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-526">
-          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        <state relative-caret-position="300">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="33" />
           <folding>
-            <element signature="e#78#117#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/item-add-form/item-add-form.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        <state relative-caret-position="925">
+          <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="20" column="58" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding>
+            <element signature="e#78#117#0" expanded="true" />
+            <element signature="e#419#580#0" />
           </folding>
         </state>
       </provider>
