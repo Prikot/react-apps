@@ -5,3 +5,11 @@
 .item-add-form input {
     margin-right: 3px;
 }
+
+.addInput {
+    width: 70%;
+}
+
+.addButton {
+    width: 30%;
+}
